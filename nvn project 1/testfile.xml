@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<suite name="suitename">
+	<test name="test1">
+		<classes>
+		      <class name="packagename.classname">
+			      <methods>
+						<include name="method name" > </include>											<include name="methodname"></include>
+						<exclude name="method name"> </exclude>
+			       </methods>
+	          </class>
+		</classes>
+	</test>
+</suite>

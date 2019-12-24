@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<suite name="sutie1">
+		<test name="test1" verbose="2">
+				<classes>
+						<class name="packagename.classname"></class>
+				</classes>
+		</test>
+</suite>
