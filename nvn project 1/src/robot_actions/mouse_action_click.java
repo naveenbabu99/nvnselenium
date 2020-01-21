@@ -11,7 +11,7 @@ public class mouse_action_click {
 	public static void main(String[] args) throws Exception
 	{
 		
-       System.setProperty("webdriver.chrome.driver", "E:\\selenium workspace\\nvn project 1\\browsers\\chromedriver.exe");
+       System.setProperty("webdriver.chrome.driver", "C:\\Users\\ACER - PC\\git\\nvnselenium\\nvnselenium\\nvn project 1\\browsers\\chromedriver.exe");
 		
 		WebDriver driver=new ChromeDriver();
 		driver.get("https://www.cleartrip.com/");
